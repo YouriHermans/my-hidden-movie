@@ -1,0 +1,24 @@
+  @font-face {
+    font-family: BTTF;
+    src: url(https://www.dafont.com/back-to-the-future.font);
+  }
+body {
+    background-image: url(https://images4.alphacoders.com/227/227424.jpg);
+}
+
+h1{
+    text-align: center;
+    font-family: BTTF;  
+}
+
+
+h2
+{
+    text-align: center;
+    text-shadow: black;
+    background-color: rgba(255, 255, 255, 0.726);
+}
+div{
+    text-align: center;
+    padding: 50px;
+}
